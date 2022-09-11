@@ -7,9 +7,7 @@ This is a sample implementation for the concepts described in the AWS blog post 
 [AWS Lambda](https://aws.amazon.com/lambda/), and
 [Amazon Simple Storage Service](https://aws.amazon.com/s3/) (S3).
 
-This application is available in the AWS Serverless Application Repository. You can deploy it to your account from there:
-
-[![cloudformation-launch-button](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://serverlessrepo.aws.amazon.com/#/applications/arn:aws:serverlessrepo:us-east-1:387304072572:applications~amazon-cloudfront-access-logs-queries)
+This application is customized. To deploy it, see "How can I customize and deploy the template" below.
 
 ## Overview
 
