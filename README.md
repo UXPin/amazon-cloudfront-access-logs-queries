@@ -71,6 +71,7 @@ SELECT * FROM cf_access_logs.combined limit 10;
         --template-file packaged.yaml
         --stack-name my-stack
         --capabilities CAPABILITY_IAM
+        --parameter-overrides ResourcePrefix=myapp Environment=staging
     ```
 
 ### Q: How can I use the sample application for multiple Amazon CloudFront distributions?
